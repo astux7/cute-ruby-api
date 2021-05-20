@@ -1,9 +1,10 @@
 # cute-ruby-api
 
 # run
-```
+install gems: 
+`
 bundle install
-```
+`
 
 ```rackup config.ru```
 
