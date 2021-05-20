@@ -1,6 +1,9 @@
 # cute-ruby-api
 
 # run
+```
+bundle install
+```
 
 ```rackup config.ru```
 
